@@ -69,7 +69,7 @@ To use the webapp, users will need to export their WhatsApp chat logs as a text 
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md]([https://github.com/santos-k/WhatsApp-Chat-Analyzer/LICENC](https://github.com/santos-k/WhatsApp-Chat-Analyzer/blob/main/LICENSE)E) file for details
 
 ## Conclusion
 This WhatsApp Chat Analysis project is a great tool for understanding patterns and trends in your WhatsApp conversations. It provides a wide range of data analysis and visualization options that make it easy to understand the data and draw insights. The project is designed to be user-friendly and easy to use, and the code is open-source and available on GitHub, making it easy to customize and extend. Overall, this project is a valuable resource for anyone looking to analyze their WhatsApp chats and gain a deeper understanding of their communication patterns.
